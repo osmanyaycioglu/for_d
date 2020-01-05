@@ -1,0 +1,2 @@
+osman,yaycioglu,osman,os12,50
+ali,veli,aliuser,1234,30
